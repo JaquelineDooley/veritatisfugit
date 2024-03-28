@@ -1,0 +1,29 @@
+{
+  "name": "veritatisfugit",
+  "version": "1.0.0",
+  "description": "A typescript functional programming library",
+  "main": "dist/src/index.js",
+  "typings": "dist/src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaquelineDooley/veritatisfugit.git"
+  },
+  "dependencies": {
+    "hamt_plus": "1.0.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "2.2.41",
+    "mocha": "3.4.2",
+    "typedoc": "0.7.2",
+    "benchmark": "2.1.4"
+  },
+  "keywords": [
+    "nobis",
+    "functional-programming",
+    "quaerat",
+    "mollitia"
+  ],
+  "author": "AlexandreBoyle",
+  "license": "ISC",
+  "homepage": "https://github.com/JaquelineDooley/veritatisfugit.git"
+}
